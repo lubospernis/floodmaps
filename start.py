@@ -17,4 +17,6 @@ threshold = cv2.threshold(img, 245, 255, cv2.THRESH_BINARY)
 cv2.imshow("shapes", img)
 
 
+print('this one is shift.')
+
 #cv2.destroyAllWindows()
