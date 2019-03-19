@@ -1,0 +1,5 @@
+Village,ColDef,Count 
+images/index.png,Black,0.0
+images/index.png,White,0.0
+images/easy.png,Black,19.0
+images/easy.png,White,81.0
