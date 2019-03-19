@@ -1,6 +1,5 @@
 # floodmaps
 
-Use the python file
 
 This script uses the the DBSCAN clustering function from Pedrogesa et al. (2011).
 
