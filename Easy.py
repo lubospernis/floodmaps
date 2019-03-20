@@ -3,7 +3,7 @@
 """
 Created on Tue Mar 19 21:51:21 2019
 
-@author: lubos
+@author: Lubos Pernis
 """
 
 class Count:
